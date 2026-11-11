@@ -71,7 +71,7 @@
       "macro_recall": 0.846,
       "cv_mean": 0.8562,
       "cv_std": 0.0079,
-      "fit_time_seconds": 1.67
+      "fit_time_seconds": 1.74
     },
     "Gradient Boosting (Boosting Ensemble)": {
       "train_accuracy": 1.0,
@@ -84,7 +84,7 @@
       "macro_recall": 0.847,
       "cv_mean": 0.8582,
       "cv_std": 0.0114,
-      "fit_time_seconds": 3.75
+      "fit_time_seconds": 3.84
     },
     "Deep Neural Network (MLP)": {
       "train_accuracy": 0.8762,
@@ -97,7 +97,7 @@
       "macro_recall": 0.845,
       "cv_mean": 0.8523,
       "cv_std": 0.0115,
-      "fit_time_seconds": 0.55
+      "fit_time_seconds": 0.68
     },
     "Support Vector Machine (Calibrated SVM)": {
       "train_accuracy": 0.8875,
@@ -110,7 +110,7 @@
       "macro_recall": 0.846,
       "cv_mean": 0.8512,
       "cv_std": 0.0099,
-      "fit_time_seconds": 0.26
+      "fit_time_seconds": 0.32
     },
     "Hybrid AI Ensemble (Recommended)": {
       "train_accuracy": 0.995,
@@ -123,7 +123,7 @@
       "macro_recall": 0.849,
       "cv_mean": 0.849,
       "cv_std": 0.012,
-      "fit_time_seconds": 35.8
+      "fit_time_seconds": 51.77
     }
   },
   "feature_importances": {
