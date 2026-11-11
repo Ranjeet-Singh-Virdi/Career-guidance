@@ -1,0 +1,745 @@
+[
+  {
+    "career_id": "CAR-001",
+    "onet_code": "15-1252.00",
+    "title": "Software Developer / Engineer",
+    "career_family": "Information Technology",
+    "short_description": "Designs, codes, tests, and maintains computer software, mobile applications, and system frameworks.",
+    "typical_activities": [
+      "Writing modular and maintainable source code",
+      "Collaborating with product managers and UX designers",
+      "Debugging errors and refactoring legacy systems",
+      "Architecting scalable backend APIs and database schemas"
+    ],
+    "relevant_interests": ["Technology and computing", "Mathematics and analytical problem-solving", "Engineering and practical problem-solving"],
+    "related_subjects": ["Computer Science", "Mathematics", "Physics"],
+    "relevant_skills": ["Programming", "Complex Problem Solving", "Critical Thinking", "Troubleshooting"],
+    "associated_extracurriculars": ["Coding and robotics", "Gaming and game development", "Research and science experiments"],
+    "preferred_work_environments": ["Office, laboratory, or remote digital environments", "Structured yet creative technical workspaces"],
+    "possible_education_pathways": {
+      "after_class_10": "Science stream (PCM) or 3-year Polytechnic Diploma in Computer Engineering.",
+      "after_class_12": "B.Tech / B.E. in Computer Science / IT or BCA followed by MCA or B.Sc in Computer Science.",
+      "after_graduation": "M.Tech in CS/AI, specialized cloud/devops certifications, or direct industry placement."
+    },
+    "minimum_prerequisites": "Bachelor's degree in Computer Science, IT, Engineering, or demonstrable programming proficiency through projects.",
+    "entrance_examinations": ["JEE Main", "JEE Advanced", "State CETs", "BITSAT", "CUET-UG (for BCA/B.Sc)", "GATE (for M.Tech)"],
+    "typical_training": "3 to 6 months of continuous project-based coding, version control (Git), and software testing frameworks.",
+    "suggested_beginner_projects": [
+      "Build a command-line student grade tracker or budget manager in Python",
+      "Create a responsive personal portfolio website using HTML, CSS, and JavaScript",
+      "Develop a weather dashboard app that fetches live forecasts from an open API"
+    ],
+    "related_careers": ["Data Scientist", "Cybersecurity Specialist", "Cloud Solutions Architect", "UI/UX Designer"],
+    "official_sources": [
+      {"name": "AICTE Approval Process Handbook", "url": "https://www.aicte-india.org"},
+      {"name": "National Career Service (NCS)", "url": "https://www.ncs.gov.in"},
+      {"name": "O*NET Online 15-1252.00", "url": "https://www.onetonline.org/link/summary/15-1252.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-002",
+    "onet_code": "15-2051.00",
+    "title": "Data Scientist & Machine Learning Specialist",
+    "career_family": "Data Science",
+    "short_description": "Extracts actionable insights from complex datasets using statistical modeling, machine learning, and data visualization.",
+    "typical_activities": [
+      "Cleaning and transforming massive unstructured data pipelines",
+      "Training predictive machine learning and deep learning models",
+      "Communicating mathematical findings to executive stakeholders",
+      "Building interactive data dashboards and KPI metric tracking systems"
+    ],
+    "relevant_interests": ["Mathematics and analytical problem-solving", "Technology and computing", "Science and research"],
+    "related_subjects": ["Mathematics", "Computer Science", "Economics", "Physics"],
+    "relevant_skills": ["Mathematics", "Critical Thinking", "Programming", "Complex Problem Solving"],
+    "associated_extracurriculars": ["Coding and robotics", "Research and science experiments", "Gaming and game development"],
+    "preferred_work_environments": ["Tech offices, research labs, or flexible remote setups", "Working heavily with data and algorithmic ideas"],
+    "possible_education_pathways": {
+      "after_class_10": "Science stream (PCM) or Commerce with Mathematics.",
+      "after_class_12": "B.Tech in CS/Data Science, B.Stat / B.Math (ISI), B.Sc in Statistics/Mathematics.",
+      "after_graduation": "M.Sc in Data Science, M.Tech in AI, IIT Madras BS in Data Science, or specialized PG Diploma."
+    },
+    "minimum_prerequisites": "Undergraduate degree in quantitative discipline (Computer Science, Statistics, Mathematics, or Economics).",
+    "entrance_examinations": ["JEE Main", "ISI Admission Test", "CUET-UG", "GATE (Data Science & AI paper DA)"],
+    "typical_training": "Hands-on experience with Python (Pandas, Scikit-Learn, PyTorch), SQL, and statistical hypothesis testing.",
+    "suggested_beginner_projects": [
+      "Analyze a public Kaggle dataset (e.g. Titanic survival or housing prices) using Pandas and Seaborn",
+      "Build a movie recommendation script using collaborative filtering",
+      "Create an exploratory dashboard visualizing city air quality trends over time"
+    ],
+    "related_careers": ["Software Developer", "Actuary & Risk Analyst", "Business Analyst", "Bioinformatician"],
+    "official_sources": [
+      {"name": "Indian Statistical Institute", "url": "https://www.isical.ac.in"},
+      {"name": "O*NET Online 15-2051.00", "url": "https://www.onetonline.org/link/summary/15-2051.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-003",
+    "onet_code": "15-1212.00",
+    "title": "Information Security & Cybersecurity Analyst",
+    "career_family": "Cybersecurity",
+    "short_description": "Protects digital networks, servers, and sensitive information systems from cyberattacks, breaches, and unauthorized access.",
+    "typical_activities": [
+      "Monitoring computer networks for security vulnerabilities and anomalies",
+      "Conducting penetration testing and ethical hacking simulations",
+      "Deploying firewalls, endpoint encryption, and multi-factor authentication",
+      "Developing incident response procedures and digital forensics reports"
+    ],
+    "relevant_interests": ["Technology and computing", "Law, government, and public service", "Engineering and practical problem-solving"],
+    "related_subjects": ["Computer Science", "Mathematics", "Physics"],
+    "relevant_skills": ["Troubleshooting", "Critical Thinking", "Systems Analysis", "Complex Problem Solving"],
+    "associated_extracurriculars": ["Coding and robotics", "Gaming and game development", "Building or repairing objects"],
+    "preferred_work_environments": ["Security Operations Centers (SOC), enterprise tech offices, or defense facilities"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCM) or Polytechnic Diploma in Computer/Network Engineering.",
+      "after_class_12": "B.Tech in Cybersecurity / Computer Science or BCA with cybersecurity specialization.",
+      "after_graduation": "Certified Ethical Hacker (CEH), CompTIA Security+, CISSP, or M.Tech in Information Security."
+    },
+    "minimum_prerequisites": "Bachelor's degree in Computer Science, Cyber Forensics, or equivalent professional networking/security certifications.",
+    "entrance_examinations": ["JEE Main", "State Engineering CETs", "GATE CS/IT"],
+    "typical_training": "Lab training on packet sniffing (Wireshark), Linux hardening, and capturing flags in ethical hacking simulations.",
+    "suggested_beginner_projects": [
+      "Set up a local virtualized Linux lab using VirtualBox and analyze open ports using Nmap",
+      "Write a Python script to verify password strength and check for common hashing vulnerabilities",
+      "Complete introductory web security challenges on free platforms like OverTheWire or PicoCTF"
+    ],
+    "related_careers": ["Software Developer", "Cloud Solutions Architect", "Digital Forensics Examiner"],
+    "official_sources": [
+      {"name": "CERT-In (Indian Computer Emergency Response Team)", "url": "https://www.cert-in.org.in"},
+      {"name": "O*NET Online 15-1212.00", "url": "https://www.onetonline.org/link/summary/15-1212.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-004",
+    "onet_code": "17-2141.00",
+    "title": "Mechanical & Robotics Engineer",
+    "career_family": "Mechanical & Aerospace Engineering",
+    "short_description": "Designs, analyzes, prototypes, and manufactures mechanical devices, automated robotics, automotive engines, and thermal systems.",
+    "typical_activities": [
+      "Creating 3D parametric CAD models and finite element structural simulations",
+      "Prototyping automated robotic mechanisms and mechatronic actuators",
+      "Testing material fatigue, heat dissipation, and mechanical vibrations",
+      "Supervising manufacturing assembly lines and industrial production tooling"
+    ],
+    "relevant_interests": ["Engineering and practical problem-solving", "Technology and computing", "Science and research"],
+    "related_subjects": ["Physics", "Mathematics", "Chemistry", "Computer Science"],
+    "relevant_skills": ["Operations Analysis", "Complex Problem Solving", "Critical Thinking", "Technology Design"],
+    "associated_extracurriculars": ["Coding and robotics", "Building or repairing objects", "Craftwork and practical projects"],
+    "preferred_work_environments": ["Engineering design studios, fabrication workshops, testing laboratories, and manufacturing plants"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCM) or 3-year Polytechnic Diploma in Mechanical Engineering.",
+      "after_class_12": "B.Tech / B.E. in Mechanical Engineering, Mechatronics, or Robotics Engineering.",
+      "after_graduation": "M.Tech in Machine Design / Robotics / CAD-CAM, or direct engineering consultancy."
+    },
+    "minimum_prerequisites": "Four-year Bachelor's degree in Mechanical Engineering or related mechatronics field.",
+    "entrance_examinations": ["JEE Main", "JEE Advanced", "State CETs", "BITSAT", "GATE (Mechanical Engineering)"],
+    "typical_training": "Proficiency in CAD modeling tools (SolidWorks, AutoCAD), MATLAB/Simulink, and CNC workshop machinery.",
+    "suggested_beginner_projects": [
+      "Design a 3D printable mechanical gear mechanism or phone stand using free Onshape or Blender",
+      "Build a microcontroller-powered line-following robot using Arduino and infrared sensors",
+      "Simulate heat transfer or stress analysis on a structural bracket using open-source CAE software"
+    ],
+    "related_careers": ["Aerospace Engineer", "Civil Engineer", "Electrical Engineer", "Biomedical Engineer"],
+    "official_sources": [
+      {"name": "AICTE Engineering Standards", "url": "https://www.aicte-india.org"},
+      {"name": "O*NET Online 17-2141.00", "url": "https://www.onetonline.org/link/summary/17-2141.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-005",
+    "onet_code": "17-2051.00",
+    "title": "Civil & Structural Engineer",
+    "career_family": "Civil & Structural Engineering",
+    "short_description": "Plans, designs, and oversees construction of physical infrastructure including bridges, highways, water supply networks, and eco-friendly skyscrapers.",
+    "typical_activities": [
+      "Calculating load-bearing structural capacities for reinforced concrete and steel",
+      "Evaluating geotechnical soil reports and foundation stability",
+      "Conducting environmental impact assessments for municipal transit projects",
+      "Supervising on-site construction safety, materials quality, and survey layouts"
+    ],
+    "relevant_interests": ["Engineering and practical problem-solving", "Design and architecture", "Agriculture and environmental sustainability"],
+    "related_subjects": ["Physics", "Mathematics", "Geography", "Chemistry"],
+    "relevant_skills": ["Mathematics", "Critical Thinking", "Complex Problem Solving", "Time Management"],
+    "associated_extracurriculars": ["Building or repairing objects", "Craftwork and practical projects", "Gardening and environmental projects"],
+    "preferred_work_environments": ["Balanced between engineering design offices and active outdoor construction project sites"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCM) or 3-year Polytechnic Diploma in Civil Engineering.",
+      "after_class_12": "B.Tech / B.E. in Civil Engineering.",
+      "after_graduation": "M.Tech in Structural / Geotechnical / Transportation Engineering, or public works exams (ESE/UPSC)."
+    },
+    "minimum_prerequisites": "Four-year Bachelor of Technology or Engineering in Civil Engineering.",
+    "entrance_examinations": ["JEE Main", "JEE Advanced", "State CETs", "UPSC Engineering Services Exam (ESE)", "GATE CE"],
+    "typical_training": "STAAD.Pro, ETABS, AutoCAD, total station surveying equipment, and construction project management tools.",
+    "suggested_beginner_projects": [
+      "Construct a miniature popsicle-stick or balsa-wood truss bridge and test its structural load limit",
+      "Model a sustainable rainwater harvesting system for a residential school or community center",
+      "Draft a digital floor plan and structural layout for a single-story building using free 2D CAD"
+    ],
+    "related_careers": ["Architect & Urban Planner", "Mechanical Engineer", "Environmental Scientist"],
+    "official_sources": [
+      {"name": "Central Public Works Department (CPWD)", "url": "https://cpwd.gov.in"},
+      {"name": "O*NET Online 17-2051.00", "url": "https://www.onetonline.org/link/summary/17-2051.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-006",
+    "onet_code": "17-2071.00",
+    "title": "Electrical & Electronics Engineer",
+    "career_family": "Electrical & Electronics",
+    "short_description": "Designs, tests, and supervises the manufacture of electrical equipment, power grids, semiconductor circuits, and renewable energy conversion systems.",
+    "typical_activities": [
+      "Designing printed circuit boards (PCBs) and micro-electronic systems",
+      "Developing smart power grid transmission algorithms and substation layouts",
+      "Testing electric vehicle (EV) battery management and motor drive electronics",
+      "Ensuring compliance with national electrical safety standards and electromagnetic shielding"
+    ],
+    "relevant_interests": ["Engineering and practical problem-solving", "Technology and computing", "Science and research"],
+    "related_subjects": ["Physics", "Mathematics", "Computer Science"],
+    "relevant_skills": ["Complex Problem Solving", "Critical Thinking", "Troubleshooting", "Operations Analysis"],
+    "associated_extracurriculars": ["Coding and robotics", "Building or repairing objects", "Research and science experiments"],
+    "preferred_work_environments": ["Electronics laboratories, power utilities, semiconductor fabs, and engineering design studios"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCM) or 3-year Polytechnic Diploma in Electrical / ECE.",
+      "after_class_12": "B.Tech in Electrical Engineering (EE) or Electronics & Communication Engineering (ECE).",
+      "after_graduation": "M.Tech in VLSI Design / Power Systems / Embedded Systems, or GATE for PSU employment."
+    },
+    "minimum_prerequisites": "Four-year Bachelor's degree in Electrical, Electronics, or Instrumentation Engineering.",
+    "entrance_examinations": ["JEE Main", "JEE Advanced", "State CETs", "GATE (EE / EC)"],
+    "typical_training": "Circuit simulation (SPICE, Proteus), microcontroller programming, and high-voltage safety protocols.",
+    "suggested_beginner_projects": [
+      "Build a breadboard circuit containing a 555 timer chip and LEDs with adjustable pulse frequency",
+      "Create a solar cell charging station monitor using an Arduino and basic voltage divider",
+      "Design a custom PCB layout in KiCad for an audio amplifier circuit"
+    ],
+    "related_careers": ["Mechanical Engineer", "Robotics Engineer", "Software Developer"],
+    "official_sources": [
+      {"name": "Bureau of Energy Efficiency (BEE)", "url": "https://beeindia.gov.in"},
+      {"name": "O*NET Online 17-2071.00", "url": "https://www.onetonline.org/link/summary/17-2071.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-007",
+    "onet_code": "29-1216.00",
+    "title": "General Physician / Medical Practitioner",
+    "career_family": "Medicine & Healthcare",
+    "short_description": "Diagnoses, treats, and helps prevent illnesses and injuries in patients of all ages, promoting long-term community health and well-being.",
+    "typical_activities": [
+      "Examining patients and recording medical histories and clinical symptoms",
+      "Ordering and interpreting diagnostic tests such as blood work, X-rays, and ECGs",
+      "Prescribing therapeutic medications, lifestyle counseling, and preventive vaccines",
+      "Referring patients with complex clinical conditions to medical and surgical specialists"
+    ],
+    "relevant_interests": ["Healthcare and biology", "Science and research", "Psychology and understanding people"],
+    "related_subjects": ["Biology", "Chemistry", "Physics", "English and other languages"],
+    "relevant_skills": ["Active Listening", "Critical Thinking", "Social Perceptiveness", "Complex Problem Solving"],
+    "associated_extracurriculars": ["Volunteering and community service", "Research and science experiments", "Writing, reading, and storytelling"],
+    "preferred_work_environments": ["Hospitals, community primary health centers, and clinical consulting chambers", "Compassionate, human-centered work"],
+    "possible_education_pathways": {
+      "after_class_10": "Science stream with Biology (PCB or PCMB).",
+      "after_class_12": "MBBS (Bachelor of Medicine and Bachelor of Surgery) 5.5 years including 1-year internship.",
+      "after_graduation": "MD in General Medicine / Family Medicine / Pediatrics, or public healthcare service."
+    },
+    "minimum_prerequisites": "MBBS degree recognized by the National Medical Commission (NMC) and valid state medical council registration.",
+    "entrance_examinations": ["NEET-UG (National Eligibility cum Entrance Test)", "NEET-PG / INI-CET (for MD specializations)"],
+    "typical_training": "One year compulsory rotatory residential internship in medicine, surgery, obstetrics, and community health.",
+    "suggested_beginner_projects": [
+      "Complete a certified Red Cross or St. John Ambulance First Aid and CPR course",
+      "Conduct a school survey investigating adolescent hydration habits and sleep patterns",
+      "Volunteer at a local community health camp or blood donation drive to observe triage processes"
+    ],
+    "related_careers": ["Registered Nurse", "Clinical Psychologist", "Pharmacist", "Physiotherapist"],
+    "official_sources": [
+      {"name": "National Medical Commission", "url": "https://www.nmc.org.in"},
+      {"name": "O*NET Online 29-1216.00", "url": "https://www.onetonline.org/link/summary/29-1216.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-008",
+    "onet_code": "29-1141.00",
+    "title": "Registered Clinical Nurse",
+    "career_family": "Nursing & Allied Health",
+    "short_description": "Provides hands-on patient care, administers medication, operates life-monitoring medical equipment, and educates patients and families on disease management.",
+    "typical_activities": [
+      "Administering intravenous medications and monitoring patient vital indicators",
+      "Coordinating holistic patient care plans with physicians and allied specialists",
+      "Operating intensive care cardiac monitors, ventilators, and infusion pumps",
+      "Providing compassionate physical comfort and psychological support to distressed families"
+    ],
+    "relevant_interests": ["Healthcare and biology", "Social work and community development", "Psychology and understanding people"],
+    "related_subjects": ["Biology", "Chemistry", "Psychology", "English and other languages"],
+    "relevant_skills": ["Service Orientation", "Social Perceptiveness", "Active Listening", "Critical Thinking"],
+    "associated_extracurriculars": ["Volunteering and community service", "Leadership and student clubs", "Organizing events"],
+    "preferred_work_environments": ["Hospital wards, intensive care units, emergency trauma suites, and outpatient clinics"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream with Biology (PCB).",
+      "after_class_12": "B.Sc Nursing (4 years) or GNM Diploma (General Nursing & Midwifery 3 years).",
+      "after_graduation": "M.Sc Nursing (Cardiology, Critical Care, Oncology), or clinical nurse specialist roles."
+    },
+    "minimum_prerequisites": "Four-year B.Sc Nursing degree and registered nurse (RN/RM) credentials from State Nursing Council.",
+    "entrance_examinations": ["AIIMS B.Sc Nursing Entrance", "NEET-UG (select states)", "State Nursing Common Entrance Tests"],
+    "typical_training": "Extensive clinical bed-side rotations across critical care, obstetrics, community nursing, and pediatrics.",
+    "suggested_beginner_projects": [
+      "Learn and practice vital signs measurement (temperature, pulse, blood pressure, oxygen saturation)",
+      "Create a patient-friendly illustrated brochure on preventing seasonal vector-borne diseases like dengue",
+      "Volunteer with an elderly home or palliative care organization assisting with mobility support"
+    ],
+    "related_careers": ["General Physician", "Physiotherapist", "Social Worker"],
+    "official_sources": [
+      {"name": "Indian Nursing Council", "url": "https://www.indiannursingcouncil.org"},
+      {"name": "O*NET Online 29-1141.00", "url": "https://www.onetonline.org/link/summary/29-1141.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-009",
+    "onet_code": "29-1051.00",
+    "title": "Pharmacist & Clinical Pharmacologist",
+    "career_family": "Pharmacy & Clinical Research",
+    "short_description": "Formulates, dispenses, and assesses medications, advising healthcare practitioners and patients on drug dosages, interactions, and therapeutic efficacy.",
+    "typical_activities": [
+      "Compounding and dispensing prescription pharmaceuticals accurately",
+      "Reviewing drug-to-drug interactions, contraindications, and patient allergy profiles",
+      "Conducting pharmaceutical bio-equivalence testing and clinical drug trials",
+      "Educating patients regarding proper drug administration and storage requirements"
+    ],
+    "relevant_interests": ["Healthcare and biology", "Science and research", "Chemistry"],
+    "related_subjects": ["Chemistry", "Biology", "Mathematics", "Physics"],
+    "relevant_skills": ["Critical Thinking", "Reading Comprehension", "Active Listening", "Mathematics"],
+    "associated_extracurriculars": ["Research and science experiments", "Volunteering and community service"],
+    "preferred_work_environments": ["Hospital dispensaries, pharmaceutical R&D labs, and community pharmacy centers"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCB or PCM).",
+      "after_class_12": "Bachelor of Pharmacy (B.Pharm 4 years) or Pharm.D (6-year clinical doctorate).",
+      "after_graduation": "Master of Pharmacy (M.Pharm in Pharmacology / Pharmaceutics) or GPAT."
+    },
+    "minimum_prerequisites": "B.Pharm degree and registered pharmacist license from Pharmacy Council of India (PCI).",
+    "entrance_examinations": ["State Pharmacy Entrance Tests", "CUET-UG", "GPAT (Graduate Pharmacy Aptitude Test for M.Pharm)"],
+    "typical_training": "Clinical hospital training and industrial pharmaceutical manufacturing internships.",
+    "suggested_beginner_projects": [
+      "Catalog common over-the-counter medications, their active pharmaceutical ingredients (APIs), and uses",
+      "Research how antibiotics target bacterial cell walls without damaging human cells, producing a clear report",
+      "Prepare a safety guide for proper household disposal of expired pharmaceuticals"
+    ],
+    "related_careers": ["Biotechnologist", "General Physician", "Chemical Engineer"],
+    "official_sources": [
+      {"name": "Pharmacy Council of India", "url": "https://www.pci.nic.in"},
+      {"name": "O*NET Online 29-1051.00", "url": "https://www.onetonline.org/link/summary/29-1051.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-010",
+    "onet_code": "19-1029.04",
+    "title": "Biotechnologist & Genetic Scientist",
+    "career_family": "Biotechnology",
+    "short_description": "Applies biological principles and cellular genetics to develop vaccines, genetically engineered crops, biofuels, and medical diagnostic therapies.",
+    "typical_activities": [
+      "Performing DNA sequencing, CRISPR gene editing, and PCR amplification",
+      "Culturing microbial strains and optimizing bioreactor fermentation conditions",
+      "Analyzing genomic data using bioinformatics tools and protein structural modeling",
+      "Ensuring biosafety regulatory compliance during genetic modification trials"
+    ],
+    "relevant_interests": ["Science and research", "Healthcare and biology", "Technology and computing"],
+    "related_subjects": ["Biology", "Chemistry", "Mathematics", "Computer Science"],
+    "relevant_skills": ["Science", "Critical Thinking", "Complex Problem Solving", "Writing"],
+    "associated_extracurriculars": ["Research and science experiments", "Coding and robotics", "Gardening and environmental projects"],
+    "preferred_work_environments": ["Molecular biology laboratories, biopharmaceutical cleanrooms, and university research facilities"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream with Biology (PCB or PCMB).",
+      "after_class_12": "B.Sc or B.Tech in Biotechnology / Bioinformatics / Microbiology (3–4 years).",
+      "after_graduation": "M.Sc / M.Tech in Biotechnology, followed by Ph.D. or industrial research position."
+    },
+    "minimum_prerequisites": "Bachelor's degree in Biotechnology, Microbiology, Genetics, or Life Sciences.",
+    "entrance_examinations": ["CUET-UG", "JEE Main (for B.Tech Biotech)", "GAT-B (Graduate Aptitude Test-Biotechnology for M.Sc)", "CSIR NET"],
+    "typical_training": "Sterile cell culture handling, gel electrophoresis, spectro-photometry, and NCBI BLAST bioinformatics searches.",
+    "suggested_beginner_projects": [
+      "Extract visible DNA strands from strawberries or bananas at home using salt, detergent, and chilled rubbing alcohol",
+      "Explore the NCBI GenBank database to compare insulin gene sequences between humans and other mammals",
+      "Write a short essay evaluating the ethical and ecological implications of CRISPR gene editing in agriculture"
+    ],
+    "related_careers": ["Data Scientist", "Pharmacist", "Environmental Scientist"],
+    "official_sources": [
+      {"name": "Department of Biotechnology (DBT India)", "url": "https://dbtindia.gov.in"},
+      {"name": "O*NET Online 19-1029.04", "url": "https://www.onetonline.org/link/summary/19-1029.04"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-011",
+    "onet_code": "13-2011.00",
+    "title": "Chartered Accountant & Financial Auditor",
+    "career_family": "Accounting & Audit",
+    "short_description": "Audits corporate financial statements, formulates taxation strategies, ensures regulatory statutory compliance, and advises on mergers.",
+    "typical_activities": [
+      "Auditing corporate balance sheets, cash flows, and profit-and-loss disclosures",
+      "Advising corporations on Goods & Services Tax (GST), corporate tax, and cross-border transfer pricing",
+      "Evaluating internal financial controls and detecting corporate financial irregularities",
+      "Representing clients before regulatory tax appellate tribunals"
+    ],
+    "relevant_interests": ["Finance and accounting", "Business and entrepreneurship", "Mathematics and analytical problem-solving"],
+    "related_subjects": ["Accountancy", "Economics", "Business Studies", "Mathematics"],
+    "relevant_skills": ["Mathematics", "Critical Thinking", "Reading Comprehension", "Judgment and Decision Making"],
+    "associated_extracurriculars": ["Leadership and student clubs", "Organizing events", "Entrepreneurship and selling products"],
+    "preferred_work_environments": ["Chartered accounting audit firms, corporate finance headquarters, and consultancy offices"],
+    "possible_education_pathways": {
+      "after_class_10": "Commerce Stream (with or without Mathematics).",
+      "after_class_12": "Register for CA Foundation with ICAI while pursuing B.Com / B.Com (Hons).",
+      "after_graduation": "Direct entry route into CA Intermediate for commerce graduates with 55%+ marks, followed by Articleship and CA Final."
+    },
+    "minimum_prerequisites": "Completion of ICAI Chartered Accountancy qualification (Foundation, Intermediate, 2-year Articleship, and Final Exam).",
+    "entrance_examinations": ["CA Foundation Exam (ICAI)", "CUET-UG (for top B.Com programs)"],
+    "typical_training": "Mandatory 2 years of practical articleship training under a practicing Chartered Accountant firm.",
+    "suggested_beginner_projects": [
+      "Prepare a complete double-entry ledger, trial balance, and balance sheet for a hypothetical small retail shop",
+      "Analyze the publicly published annual financial report of a listed company (e.g. Tata Motors or Infosys)",
+      "Calculate personal income tax liability for different income slabs under India's new and old tax regimes"
+    ],
+    "related_careers": ["Investment Banker", "Actuary", "Management Consultant"],
+    "official_sources": [
+      {"name": "Institute of Chartered Accountants of India (ICAI)", "url": "https://www.icai.org"},
+      {"name": "O*NET Online 13-2011.00", "url": "https://www.onetonline.org/link/summary/13-2011.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-012",
+    "onet_code": "13-2051.00",
+    "title": "Investment Banker & Financial Analyst",
+    "career_family": "Finance & Banking",
+    "short_description": "Advises corporations and governments on raising capital, structuring mergers & acquisitions (M&A), and analyzing market equity investments.",
+    "typical_activities": [
+      "Building discounted cash flow (DCF) and leveraged buyout (LBO) financial valuation models",
+      "Preparing confidential investment pitch books for initial public offerings (IPOs)",
+      "Conducting financial due diligence on acquisition targets",
+      "Presenting market valuation insights to corporate CFOs and institutional investors"
+    ],
+    "relevant_interests": ["Finance and accounting", "Business and entrepreneurship", "Mathematics and analytical problem-solving"],
+    "related_subjects": ["Economics", "Accountancy", "Mathematics", "Business Studies"],
+    "relevant_skills": ["Mathematics", "Critical Thinking", "Judgment and Decision Making", "Speaking"],
+    "associated_extracurriculars": ["Public speaking and debate", "Entrepreneurship and selling products", "Leadership and student clubs"],
+    "preferred_work_environments": ["Investment banking offices, equity research institutions, and private equity firms"],
+    "possible_education_pathways": {
+      "after_class_10": "Commerce with Math or Science Stream (PCM).",
+      "after_class_12": "B.Com (Hons), B.A. Economics (Hons), B.Sc Finance, or B.Tech (Engineering).",
+      "after_graduation": "MBA in Finance from top business school (IIMs, ISB, global top-20), CFA (Chartered Financial Analyst) charter."
+    },
+    "minimum_prerequisites": "Bachelor's degree in Finance, Economics, Commerce, or Engineering with strong quantitative aptitude.",
+    "entrance_examinations": ["CAT (for IIMs)", "GMAT", "CUET-UG", "CFA Levels 1-3 examinations"],
+    "typical_training": "Advanced financial modeling in Excel, Bloomberg Terminal navigation, and valuation methodologies.",
+    "suggested_beginner_projects": [
+      "Construct a 3-statement financial model (Income Statement, Balance Sheet, Cash Flow) for a company in Excel",
+      "Track a simulated portfolio of 5 stocks over 6 weeks and write a rationale explaining market movements",
+      "Summarize the strategic rationale and financial terms of a recent major corporate acquisition in the news"
+    ],
+    "related_careers": ["Chartered Accountant", "Management Consultant", "Data Scientist", "Actuary"],
+    "official_sources": [
+      {"name": "CFA Institute", "url": "https://www.cfainstitute.org"},
+      {"name": "O*NET Online 13-2051.00", "url": "https://www.onetonline.org/link/summary/13-2051.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-013",
+    "onet_code": "13-1111.00",
+    "title": "Management Consultant & Business Strategist",
+    "career_family": "Management & Strategy",
+    "short_description": "Helps enterprise executives solve complex organizational hurdles, optimize operational efficiency, and enter new market sectors.",
+    "typical_activities": [
+      "Dissecting complex corporate client problems using structured hypothesis frameworks",
+      "Conducting stakeholder interviews, cost-benefit analyses, and industry benchmarking",
+      "Synthesizing actionable executive recommendations into persuasive presentation decks",
+      "Guiding change-management implementation alongside corporate executive teams"
+    ],
+    "relevant_interests": ["Business and entrepreneurship", "Communication, writing, and media", "Mathematics and analytical problem-solving"],
+    "related_subjects": ["Business Studies", "Economics", "Mathematics", "English and other languages"],
+    "relevant_skills": ["Critical Thinking", "Complex Problem Solving", "Speaking", "Judgment and Decision Making"],
+    "associated_extracurriculars": ["Public speaking and debate", "Leadership and student clubs", "Organizing events"],
+    "preferred_work_environments": ["High-energy corporate client offices, management consulting firms, and collaborative team rooms"],
+    "possible_education_pathways": {
+      "after_class_10": "Any stream with strong analytical emphasis (Commerce with Math, Science, or Humanities with Economics).",
+      "after_class_12": "Undergraduate degree in Engineering, Economics, Commerce, or BBA/BMS.",
+      "after_graduation": "MBA from top-tier institution (IIMs, ISB, Ivy League) or direct campus hiring from premier undergraduate colleges."
+    },
+    "minimum_prerequisites": "Bachelor's degree with proven analytical excellence, problem-solving ability, and case interview performance.",
+    "entrance_examinations": ["CAT", "GMAT", "CUET-UG", "IPMAT"],
+    "typical_training": "Structured case cracking, MECE problem decomposition, executive storytelling, and data synthesis.",
+    "suggested_beginner_projects": [
+      "Crack and solve 3 business case studies (e.g. market entry or profitability drop) using structured frameworks",
+      "Formulate a strategic turnaround plan for a struggling local retail shop or restaurant",
+      "Create an executive slide deck proposing an expansion plan for an electric two-wheeler startup"
+    ],
+    "related_careers": ["Investment Banker", "Marketing Manager", "Entrepreneur", "Civil Services Officer"],
+    "official_sources": [
+      {"name": "Consulting Industry Standards", "url": "https://www.ncs.gov.in"},
+      {"name": "O*NET Online 13-1111.00", "url": "https://www.onetonline.org/link/summary/13-1111.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-014",
+    "onet_code": "23-1011.00",
+    "title": "Corporate Lawyer & Advocate",
+    "career_family": "Legal Services & Judiciary",
+    "short_description": "Advises clients on legal rights, drafts contracts, represents litigants in courtrooms, and ensures corporate compliance with statutory laws.",
+    "typical_activities": [
+      "Drafting commercial contracts, non-disclosure agreements, and joint-venture terms",
+      "Conducting extensive precedent case-law research across digital legal databases",
+      "Formulating oral and written legal arguments for judicial benches and arbitration panels",
+      "Counseling corporate clients on regulatory antitrust, employment, and IP laws"
+    ],
+    "relevant_interests": ["Law, government, and public service", "Communication, writing, and media", "Psychology and understanding people"],
+    "related_subjects": ["Legal Studies", "Political Science", "English and other languages", "History"],
+    "relevant_skills": ["Critical Thinking", "Speaking", "Reading Comprehension", "Writing", "Negotiation"],
+    "associated_extracurriculars": ["Public speaking and debate", "Writing, reading, and storytelling", "Leadership and student clubs"],
+    "preferred_work_environments": ["Law chambers, judicial courthouses, corporate legal departments, and arbitration centers"],
+    "possible_education_pathways": {
+      "after_class_10": "Humanities, Commerce, or Science stream with strong reading and analytical focus.",
+      "after_class_12": "Five-year integrated B.A. LL.B or B.B.A. LL.B from a National Law University (NLU).",
+      "after_graduation": "Three-year LL.B after any bachelor's degree; LL.M. for academic or specialized corporate practice."
+    },
+    "minimum_prerequisites": "LL.B degree recognized by the Bar Council of India (BCI) and clearing the All India Bar Examination (AIBE).",
+    "entrance_examinations": ["CLAT (Common Law Admission Test)", "AILET", "SLAT", "State Law CETs", "All India Bar Examination (AIBE)"],
+    "typical_training": "Participation in national moot court competitions, legal drafting workshops, and internships with advocates or law firms.",
+    "suggested_beginner_projects": [
+      "Prepare a mock trial or moot court argument on an interesting constitutional free-speech or privacy scenario",
+      "Review the Terms of Service of a popular social media app and highlight clauses concerning user data rights",
+      "Summarize the majority and dissenting judgments of a landmark Supreme Court constitutional ruling"
+    ],
+    "related_careers": ["Civil Services Officer", "Journalist", "Management Consultant"],
+    "official_sources": [
+      {"name": "Bar Council of India", "url": "https://www.barcouncilofindia.org"},
+      {"name": "Consortium of NLUs", "url": "https://www.consortiumofnlus.ac.in"},
+      {"name": "O*NET Online 23-1011.00", "url": "https://www.onetonline.org/link/summary/23-1011.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-015",
+    "onet_code": "11-1031.00",
+    "title": "Civil Services Officer (IAS / IPS / State Administrator)",
+    "career_family": "Civil Services & Governance",
+    "short_description": "Administers district governance, formulates and executes public development policies, maintains law and order, and oversees civic services.",
+    "typical_activities": [
+      "Directing district administration, revenue collection, and social development schemes",
+      "Responding to humanitarian disasters, flood management, and public emergency relief",
+      "Formulating policy white-papers for central and state government ministries",
+      "Engaging directly with citizens, public representatives, and local community panchayats"
+    ],
+    "relevant_interests": ["Law, government, and public service", "Social work and community development", "Business and entrepreneurship"],
+    "related_subjects": ["Political Science", "History", "Geography", "Economics", "Sociology"],
+    "relevant_skills": ["Management of Personnel Resources", "Judgment and Decision Making", "Complex Problem Solving", "Speaking"],
+    "associated_extracurriculars": ["Volunteering and community service", "Leadership and student clubs", "Public speaking and debate"],
+    "preferred_work_environments": ["District administrative collectorates, government secretariats, and active field inspection visits"],
+    "possible_education_pathways": {
+      "after_class_10": "Any academic stream (Humanities, Science, or Commerce).",
+      "after_class_12": "Undergraduate degree in any discipline (B.A., B.Sc, B.Com, B.Tech, MBBS, etc.).",
+      "after_graduation": "UPSC Civil Services Examination (Prelims, Mains, and Interview) preparation."
+    },
+    "minimum_prerequisites": "Graduate degree in any discipline from a university recognized by UGC. Minimum age 21 years.",
+    "entrance_examinations": ["UPSC Civil Services Examination (CSE)", "State Public Service Commission Exams (State PSC)"],
+    "typical_training": "Two years of probationary administrative and field training at LBSNAA (Mussoorie) and state academies.",
+    "suggested_beginner_projects": [
+      "Select a government welfare program (e.g. Mid-Day Meal or Jal Jeevan Mission) and study its grassroots implementation in your area",
+      "Write a balanced 1000-word policy brief analyzing the pros and cons of an urban public transport policy",
+      "Participate in a Model United Nations (MUN) or Youth Parliament representing a ministerial portfolio"
+    ],
+    "related_careers": ["Corporate Lawyer", "Social Worker", "Management Consultant", "Public Policy Analyst"],
+    "official_sources": [
+      {"name": "Union Public Service Commission (UPSC)", "url": "https://www.upsc.gov.in"},
+      {"name": "DoPT (Department of Personnel and Training)", "url": "https://dopt.gov.in"},
+      {"name": "O*NET Online 11-1031.00", "url": "https://www.onetonline.org/link/summary/11-1031.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-016",
+    "onet_code": "19-3033.00",
+    "title": "Clinical & Counseling Psychologist",
+    "career_family": "Clinical & Counseling Psychology",
+    "short_description": "Assesses and treats mental health disorders, emotional struggles, and behavioral issues through psychotherapy and psychometric assessments.",
+    "typical_activities": [
+      "Conducting diagnostic clinical interviews and standardized psychometric testing",
+      "Delivering evidence-based psychotherapy (Cognitive Behavioral Therapy, Humanistic Counseling)",
+      "Formulating behavioral modification treatment plans for depression, anxiety, and trauma",
+      "Consulting with psychiatric doctors on holistic biopsychosocial interventions"
+    ],
+    "relevant_interests": ["Psychology and understanding people", "Healthcare and biology", "Social work and community development"],
+    "related_subjects": ["Psychology", "Sociology", "Biology", "English and other languages"],
+    "relevant_skills": ["Active Listening", "Social Perceptiveness", "Critical Thinking", "Service Orientation"],
+    "associated_extracurriculars": ["Volunteering and community service", "Writing, reading, and storytelling", "Public speaking and debate"],
+    "preferred_work_environments": ["Clinical therapy consultation rooms, psychiatric hospitals, university counseling centers"],
+    "possible_education_pathways": {
+      "after_class_10": "Humanities, Science, or Commerce stream.",
+      "after_class_12": "B.A. or B.Sc in Psychology (3–4 years).",
+      "after_graduation": "M.A./M.Sc in Clinical Psychology, followed by RCI-recognized M.Phil or Psy.D in Clinical Psychology for clinical licensure."
+    },
+    "minimum_prerequisites": "Master's degree in Clinical Psychology + RCI licensure (or Psy.D/M.Phil in Clinical Psychology) for independent clinical practice.",
+    "entrance_examinations": ["CUET-UG", "CUET-PG (Psychology)", "NIMHANS / CIP Entrance Examination (for M.Phil/Ph.D)"],
+    "typical_training": "Supervised clinical hospital residency with direct patient psychometric evaluation and psychotherapy cases.",
+    "suggested_beginner_projects": [
+      "Design an educational school presentation debunking common myths and stigma around seeking mental health therapy",
+      "Keep a structured 14-day cognitive behavioral mood and gratitude journal to study personal cognitive patterns",
+      "Conduct a research survey investigating correlations between screen-time habits and self-reported sleep quality"
+    ],
+    "related_careers": ["General Physician", "Social Worker", "School Educator"],
+    "official_sources": [
+      {"name": "Rehabilitation Council of India", "url": "https://www.rehabcouncil.nic.in"},
+      {"name": "O*NET Online 19-3033.00", "url": "https://www.onetonline.org/link/summary/19-3033.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-017",
+    "onet_code": "27-1024.00",
+    "title": "UI/UX & Digital Product Designer",
+    "career_family": "UI/UX & Product Design",
+    "short_description": "Designs intuitive, accessible digital interfaces and delightful user experiences for mobile apps, websites, and enterprise software.",
+    "typical_activities": [
+      "Conducting user interviews, empathy mapping, and usability testing sessions",
+      "Creating low-fidelity wireframes and interactive high-fidelity clickable prototypes",
+      "Developing scalable design systems with reusable UI components and typography standards",
+      "Collaborating closely with frontend engineers to ensure pixel-perfect implementation"
+    ],
+    "relevant_interests": ["Design and architecture", "Technology and computing", "Arts and creative expression"],
+    "related_subjects": ["Fine Arts", "Computer Science", "Psychology", "English and other languages"],
+    "relevant_skills": ["Operations Analysis", "Critical Thinking", "Technology Design", "Active Learning"],
+    "associated_extracurriculars": ["Drawing, painting, and illustration", "Video editing and content creation", "Gaming and game development"],
+    "preferred_work_environments": ["Tech product companies, design studios, creative agencies, and remote collaborative teams"],
+    "possible_education_pathways": {
+      "after_class_10": "Any stream with interest in visual arts, design, or computing.",
+      "after_class_12": "B.Des (Interaction Design / Industrial Design) from NID/IITs or B.Tech / BCA with design portfolio.",
+      "after_graduation": "M.Des from IDC (IIT Bombay) / NID, Google UX Design Certificate, or robust portfolio-driven entry."
+    },
+    "minimum_prerequisites": "Compelling design portfolio demonstrating user research, wireframing, and interactive design prototypes.",
+    "entrance_examinations": ["UCEED (IITs)", "NID DAT", "CEED (for M.Des)", "NIFT Entrance"],
+    "typical_training": "Mastery of industry design tools (Figma, FigJam), user persona creation, accessibility (WCAG), and responsive layout.",
+    "suggested_beginner_projects": [
+      "Audit a confusing real-world mobile app and redesign a cleaner 3-screen checkout flow in Figma",
+      "Build a complete design system with buttons, input fields, colors, and typography styles for a student app",
+      "Conduct a 5-person user testing session on a prototype and document actionable UX takeaways"
+    ],
+    "related_careers": ["Software Developer", "Graphic Designer", "Architect"],
+    "official_sources": [
+      {"name": "National Institute of Design (NID)", "url": "https://www.nid.edu"},
+      {"name": "O*NET Online 27-1024.00", "url": "https://www.onetonline.org/link/summary/27-1024.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-018",
+    "onet_code": "17-1011.00",
+    "title": "Architect & Urban Designer",
+    "career_family": "Architecture & Urban Planning",
+    "short_description": "Conceives, designs, and plans aesthetic, sustainable, and functional buildings, residential complexes, and urban community spaces.",
+    "typical_activities": [
+      "Drafting architectural blueprints, spatial layouts, and elevations",
+      "Incorporating solar passive architecture, natural ventilation, and green building norms (GRIHA/LEED)",
+      "Collaborating with structural engineers, landscape architects, and municipal authorities",
+      "Conducting on-site construction walkthroughs to verify structural adherence to blueprints"
+    ],
+    "relevant_interests": ["Design and architecture", "Engineering and practical problem-solving", "Arts and creative expression"],
+    "related_subjects": ["Mathematics", "Physics", "Fine Arts", "Geography"],
+    "relevant_skills": ["Operations Analysis", "Critical Thinking", "Complex Problem Solving", "Time Management"],
+    "associated_extracurriculars": ["Drawing, painting, and illustration", "Building or repairing objects", "Craftwork and practical projects"],
+    "preferred_work_environments": ["Architecture design studios, client boardrooms, and outdoor construction project sites"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream (PCM) - Mathematics is mandatory for Council of Architecture (CoA) eligibility.",
+      "after_class_12": "Bachelor of Architecture (B.Arch 5 years).",
+      "after_graduation": "M.Arch in Urban Design / Sustainable Architecture / Landscape Architecture, or Council registration."
+    },
+    "minimum_prerequisites": "Five-year B.Arch degree recognized by the Council of Architecture (CoA) and clearing NATA or JEE Main Paper 2.",
+    "entrance_examinations": ["NATA (National Aptitude Test in Architecture)", "JEE Main (Paper 2A - B.Arch)"],
+    "typical_training": "Architectural studio juries, physical scale model building, Building Information Modeling (BIM/Revit), and AutoCAD.",
+    "suggested_beginner_projects": [
+      "Draw 1-point and 2-point perspective sketches of your room or school campus with accurate light and shadow",
+      "Design a zero-waste, energy-efficient eco-pavilion for a public park using cardboard scale modeling",
+      "Create a digital 3D model of a modern tiny-home using Trimble SketchUp free web edition"
+    ],
+    "related_careers": ["Civil Engineer", "UI/UX Designer", "Environmental Scientist"],
+    "official_sources": [
+      {"name": "Council of Architecture (CoA India)", "url": "https://www.coa.gov.in"},
+      {"name": "O*NET Online 17-1011.00", "url": "https://www.onetonline.org/link/summary/17-1011.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-019",
+    "onet_code": "27-3023.00",
+    "title": "Investigative Journalist & Media Reporter",
+    "career_family": "Journalism & Mass Media",
+    "short_description": "Investigates, reports, writes, and broadcasts news stories, holding public institutions accountable and informing civil society.",
+    "typical_activities": [
+      "Investigating news leads, verifying source credibility, and cross-checking facts",
+      "Interviewing public officials, industry specialists, and eyewitnesses",
+      "Drafting compelling, clear, and impartial news articles under tight deadlines",
+      "Producing multimedia news packages, video reports, and digital podcasts"
+    ],
+    "relevant_interests": ["Communication, writing, and media", "Law, government, and public service", "Social work and community development"],
+    "related_subjects": ["English and other languages", "Political Science", "History", "Sociology"],
+    "relevant_skills": ["Writing", "Active Listening", "Speaking", "Critical Thinking"],
+    "associated_extracurriculars": ["Writing, reading, and storytelling", "Public speaking and debate", "Photography", "Video editing and content creation"],
+    "preferred_work_environments": ["Newsrooms, broadcast recording studios, and investigative field reporting locations"],
+    "possible_education_pathways": {
+      "after_class_10": "Humanities, Commerce, or Science stream with strong language command.",
+      "after_class_12": "B.A. in Journalism & Mass Communication (BJMC 3 years) or B.A. in English / Political Science.",
+      "after_graduation": "PG Diploma in Journalism (IIMC, Asian College of Journalism) or M.A. in Mass Communication."
+    },
+    "minimum_prerequisites": "Bachelor's degree in Journalism, Mass Communication, or related field with published writing samples.",
+    "entrance_examinations": ["CUET-UG", "IIMC National Entrance Test", "ACJ Entrance Exam", "XIC OET"],
+    "typical_training": "Beat reporting, newsroom fact-checking, ethical journalism standards, audio/video editing, and libel laws.",
+    "suggested_beginner_projects": [
+      "Write a 700-word investigative feature story on a civic issue (e.g. waste management or public transit) in your neighborhood",
+      "Conduct and record a 10-minute structured interview with a teacher or community leader on youth challenges",
+      "Launch a student digital newsletter or blog reporting on school events and student opinions"
+    ],
+    "related_careers": ["Corporate Lawyer", "Content Strategist", "Civil Services Officer"],
+    "official_sources": [
+      {"name": "Indian Institute of Mass Communication", "url": "https://www.iimc.gov.in"},
+      {"name": "O*NET Online 27-3023.00", "url": "https://www.onetonline.org/link/summary/27-3023.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  },
+  {
+    "career_id": "CAR-020",
+    "onet_code": "19-1011.00",
+    "title": "Agricultural Scientist & Agronomist",
+    "career_family": "Agricultural Science & Agronomy",
+    "short_description": "Researches crop productivity, soil health, pest management, and sustainable precision agriculture to ensure food security.",
+    "typical_activities": [
+      "Conducting controlled field experiments on high-yield, drought-resistant crop varieties",
+      "Analyzing soil chemistry, nitrogen fixation, and microbial composition",
+      "Developing integrated pest management (IPM) protocols using organic biological controls",
+      "Advising agricultural cooperatives on drip irrigation and precision sensor deployment"
+    ],
+    "relevant_interests": ["Agriculture and environmental sustainability", "Science and research", "Engineering and practical problem-solving"],
+    "related_subjects": ["Agriculture", "Biology", "Chemistry", "Geography"],
+    "relevant_skills": ["Science", "Critical Thinking", "Complex Problem Solving", "Active Learning"],
+    "associated_extracurriculars": ["Gardening and environmental projects", "Research and science experiments", "Building or repairing objects"],
+    "preferred_work_environments": ["Agricultural research stations, field test farms, green-houses, and soil testing labs"],
+    "possible_education_pathways": {
+      "after_class_10": "Science Stream with Biology or Agriculture (PCB/PCMB).",
+      "after_class_12": "B.Sc (Hons) Agriculture (4 years).",
+      "after_graduation": "M.Sc in Agronomy / Genetics & Plant Breeding / Soil Science, followed by ASRB Agricultural Research Service (ARS)."
+    },
+    "minimum_prerequisites": "Four-year B.Sc (Hons) in Agriculture or related agricultural sciences recognized by ICAR.",
+    "entrance_examinations": ["CUET-UG (ICAR AIEEA-UG)", "State Agricultural Universities Entrance Tests", "ICAR AIEEA-PG"],
+    "typical_training": "Rural Agricultural Work Experience (RAWE) semester, seed certification procedures, and soil spectro-photometry.",
+    "suggested_beginner_projects": [
+      "Run a small home experiment comparing plant growth across different soil types (clay, sand, compost)",
+      "Build a simple low-cost gravity drip irrigation rig using recycled plastic bottles",
+      "Document native beneficial insects and pollinator species visiting a local garden over one week"
+    ],
+    "related_careers": ["Biotechnologist", "Environmental Scientist", "Civil Engineer"],
+    "official_sources": [
+      {"name": "Indian Council of Agricultural Research (ICAR)", "url": "https://www.icar.org.in"},
+      {"name": "O*NET Online 19-1011.00", "url": "https://www.onetonline.org/link/summary/19-1011.00"}
+    ],
+    "last_verified_date": "2026-08-15"
+  }
+]

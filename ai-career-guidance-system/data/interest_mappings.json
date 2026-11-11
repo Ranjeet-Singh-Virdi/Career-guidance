@@ -1,0 +1,172 @@
+{
+  "Technology and computing": {
+    "description": "Building software, working with computers, cybersecurity, networks, and artificial intelligence.",
+    "sample_questions": [
+      "Building a mobile app, website, or game",
+      "Learning programming languages and algorithms",
+      "Diagnosing and troubleshooting tech hardware or networks"
+    ],
+    "onet_riasec": ["Investigative", "Realistic", "Conventional"],
+    "career_families": ["Information Technology", "Engineering", "Data Science", "Cybersecurity"]
+  },
+  "Science and research": {
+    "description": "Investigating how nature works, conducting laboratory experiments, and discovering new scientific truths.",
+    "sample_questions": [
+      "Conducting lab experiments or scientific research",
+      "Reading about discoveries in physics, astronomy, chemistry, or genetics",
+      "Investigating the causes of diseases or natural phenomena"
+    ],
+    "onet_riasec": ["Investigative", "Realistic"],
+    "career_families": ["Physical Sciences", "Life Sciences", "Biotechnology", "Research & Academia"]
+  },
+  "Healthcare and biology": {
+    "description": "Improving health, treating illnesses, supporting patient recovery, and understanding human biology.",
+    "sample_questions": [
+      "Helping patients recover from injuries or illnesses",
+      "Studying human anatomy, pharmacology, and physiology",
+      "Promoting community public health and preventive medicine"
+    ],
+    "onet_riasec": ["Social", "Investigative"],
+    "career_families": ["Medicine & Healthcare", "Nursing & Allied Health", "Pharmacy & Clinical Research"]
+  },
+  "Mathematics and analytical problem-solving": {
+    "description": "Finding patterns in data, formulating statistical models, and solving complex logic problems.",
+    "sample_questions": [
+      "Solving complex mathematical equations and puzzles",
+      "Analyzing patterns in big datasets to make forecasts",
+      "Applying statistics to evaluate economic or scientific trends"
+    ],
+    "onet_riasec": ["Investigative", "Conventional"],
+    "career_families": ["Data Science", "Actuarial Science", "Finance & Economics", "Operations Research"]
+  },
+  "Business and entrepreneurship": {
+    "description": "Starting new ventures, managing organizations, developing strategy, and leading teams.",
+    "sample_questions": [
+      "Creating a business plan or launching a startup",
+      "Leading teams toward achieving strategic targets",
+      "Negotiating deals and building customer partnerships"
+    ],
+    "onet_riasec": ["Enterprising", "Conventional"],
+    "career_families": ["Management & Strategy", "Marketing & Sales", "Entrepreneurship"]
+  },
+  "Finance and accounting": {
+    "description": "Managing money, auditing accounts, analyzing investments, and ensuring financial accuracy.",
+    "sample_questions": [
+      "Evaluating stock markets, investments, and capital growth",
+      "Auditing balance sheets, tax returns, and corporate accounts",
+      "Formulating budgets and financial risk assessments"
+    ],
+    "onet_riasec": ["Conventional", "Enterprising", "Investigative"],
+    "career_families": ["Finance & Banking", "Accounting & Audit", "Fintech & Wealth Management"]
+  },
+  "Arts and creative expression": {
+    "description": "Expressing ideas and stories through visual art, music, acting, dance, and creative media.",
+    "sample_questions": [
+      "Creating original artwork, illustration, or animation",
+      "Composing music, singing, or performing on stage",
+      "Directing or producing theatrical, musical, or film works"
+    ],
+    "onet_riasec": ["Artistic"],
+    "career_families": ["Fine & Visual Arts", "Music & Performing Arts", "Entertainment & Production"]
+  },
+  "Design and architecture": {
+    "description": "Designing products, digital interfaces, buildings, interiors, and visual identities.",
+    "sample_questions": [
+      "Designing functional and beautiful buildings or spaces",
+      "Creating intuitive user interfaces (UI/UX) for applications",
+      "Prototyping physical consumer products or fashion apparel"
+    ],
+    "onet_riasec": ["Artistic", "Realistic", "Investigative"],
+    "career_families": ["Architecture & Urban Planning", "UI/UX & Product Design", "Graphic & Fashion Design"]
+  },
+  "Communication, writing, and media": {
+    "description": "Informing and engaging audiences through journalism, digital content, copywriting, and public relations.",
+    "sample_questions": [
+      "Investigating news stories and writing journalistic articles",
+      "Producing podcasts, video blogs, or social media campaigns",
+      "Writing fiction, scripts, essays, or persuasive arguments"
+    ],
+    "onet_riasec": ["Artistic", "Enterprising", "Social"],
+    "career_families": ["Journalism & Mass Media", "Content Creation & PR", "Creative & Technical Writing"]
+  },
+  "Teaching and education": {
+    "description": "Mentoring, instructing, and inspiring learners in schools, universities, or training institutes.",
+    "sample_questions": [
+      "Explaining difficult concepts in engaging, simple ways",
+      "Developing educational curriculums, tutorials, and workshops",
+      "Coaching and mentoring students to reach their potential"
+    ],
+    "onet_riasec": ["Social", "Investigative"],
+    "career_families": ["School & Higher Education", "Special Education", "Corporate Training & EdTech"]
+  },
+  "Psychology and understanding people": {
+    "description": "Understanding human behavior, cognitive processes, emotions, and counseling individuals.",
+    "sample_questions": [
+      "Listening empathetically to help people overcome mental challenges",
+      "Conducting research on memory, emotions, and human behavior",
+      "Improving workplace organizational culture and employee well-being"
+    ],
+    "onet_riasec": ["Social", "Investigative"],
+    "career_families": ["Clinical & Counseling Psychology", "Cognitive Neuroscience", "Organizational Psychology"]
+  },
+  "Social work and community development": {
+    "description": "Advocating for underprivileged communities, NGO leadership, and driving humanitarian causes.",
+    "sample_questions": [
+      "Organizing grassroots relief and community development initiatives",
+      "Advocating for child welfare, elderly support, or human rights",
+      "Working with NGOs to eliminate poverty, hunger, and inequality"
+    ],
+    "onet_riasec": ["Social", "Enterprising"],
+    "career_families": ["Social Work & NGO Management", "Public Policy & Development", "Humanitarian Aid"]
+  },
+  "Law, government, and public service": {
+    "description": "Upholding justice, drafting policies, administering civil services, and representing clients in court.",
+    "sample_questions": [
+      "Formulating arguments based on constitutional and statutory law",
+      "Drafting public policies and managing governmental departments",
+      "Serving the public through civil services or judicial roles"
+    ],
+    "onet_riasec": ["Enterprising", "Investigative", "Social"],
+    "career_families": ["Legal Services & Judiciary", "Civil Services & Governance", "International Relations"]
+  },
+  "Sports and physical activities": {
+    "description": "Competing in athletics, physical training, sports coaching, and sports science.",
+    "sample_questions": [
+      "Training athletes to optimize physical performance and endurance",
+      "Developing sports conditioning, physiotherapy, and nutrition plans",
+      "Managing sports tournaments, athletic teams, or sporting facilities"
+    ],
+    "onet_riasec": ["Realistic", "Social", "Enterprising"],
+    "career_families": ["Athletics & Sports Coaching", "Sports Science & Nutrition", "Sports Management"]
+  },
+  "Agriculture and environmental sustainability": {
+    "description": "Protecting natural ecosystems, sustainable farming, wildlife conservation, and climate action.",
+    "sample_questions": [
+      "Implementing precision farming, hydroponics, or organic crops",
+      "Conducting forestry, wildlife protection, and biodiversity studies",
+      "Developing renewable energy and environmental conservation solutions"
+    ],
+    "onet_riasec": ["Realistic", "Investigative"],
+    "career_families": ["Agricultural Science & Agronomy", "Environmental Science & Climate", "Forestry & Wildlife Conservation"]
+  },
+  "Engineering and practical problem-solving": {
+    "description": "Designing, building, and optimizing machines, electronics, structures, and industrial systems.",
+    "sample_questions": [
+      "Designing mechanical engines, robotics, or aerospace systems",
+      "Constructing bridges, highways, or water management structures",
+      "Developing microprocessors, circuits, or electrical power grids"
+    ],
+    "onet_riasec": ["Realistic", "Investigative"],
+    "career_families": ["Mechanical & Aerospace Engineering", "Civil & Structural Engineering", "Electrical & Electronics"]
+  },
+  "Skilled trades and technical work": {
+    "description": "Hands-on craftsmanship, equipment installation, maintenance, repair, and precision manufacturing.",
+    "sample_questions": [
+      "Operating CNC machinery, precision fabrication, or welding",
+      "Installing and repairing electrical systems or plumbing",
+      "Servicing automobiles, aircraft engines, or renewable power equipment"
+    ],
+    "onet_riasec": ["Realistic"],
+    "career_families": ["Skilled Trades & ITI", "Automotive & Heavy Equipment", "Industrial Maintenance"]
+  }
+}

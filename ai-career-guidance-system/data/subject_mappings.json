@@ -1,0 +1,92 @@
+{
+  "Mathematics": {
+    "onet_knowledge": ["Mathematics", "Physics", "Economics and Accounting"],
+    "career_families": ["Data Science", "Actuarial Science", "Finance & Economics", "Engineering"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Physics": {
+    "onet_knowledge": ["Physics", "Engineering and Technology", "Mathematics"],
+    "career_families": ["Physical Sciences", "Mechanical & Aerospace Engineering", "Electrical & Electronics"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Chemistry": {
+    "onet_knowledge": ["Chemistry", "Biology", "Medicine and Dentistry"],
+    "career_families": ["Chemical Engineering", "Pharmacy & Clinical Research", "Material Sciences", "Biotechnology"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Biology": {
+    "onet_knowledge": ["Biology", "Medicine and Dentistry", "Chemistry"],
+    "career_families": ["Medicine & Healthcare", "Nursing & Allied Health", "Biotechnology", "Life Sciences"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Computer Science": {
+    "onet_knowledge": ["Computers and Electronics", "Telecommunications", "Mathematics", "Engineering and Technology"],
+    "career_families": ["Information Technology", "Cybersecurity", "Data Science", "UI/UX & Product Design"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "English and other languages": {
+    "onet_knowledge": ["English Language", "Communications and Media", "Foreign Language"],
+    "career_families": ["Journalism & Mass Media", "Content Creation & PR", "Creative & Technical Writing", "School & Higher Education"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "History": {
+    "onet_knowledge": ["History and Archeology", "Philosophy and Theology", "Sociology and Anthropology"],
+    "career_families": ["Civil Services & Governance", "Research & Academia", "Heritage & Museology", "School & Higher Education"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Geography": {
+    "onet_knowledge": ["Geography", "History and Archeology", "Biology"],
+    "career_families": ["Environmental Science & Climate", "Urban Planning & GIS", "Civil Services & Governance"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Political Science": {
+    "onet_knowledge": ["Law and Government", "History and Archeology", "Sociology and Anthropology"],
+    "career_families": ["Legal Services & Judiciary", "Civil Services & Governance", "International Relations", "Public Policy & Development"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Economics": {
+    "onet_knowledge": ["Economics and Accounting", "Mathematics", "Administration and Management"],
+    "career_families": ["Finance & Banking", "Public Policy & Development", "Data Science", "Management & Strategy"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Accountancy": {
+    "onet_knowledge": ["Economics and Accounting", "Administration and Management", "Mathematics"],
+    "career_families": ["Accounting & Audit", "Finance & Banking", "Fintech & Wealth Management"],
+    "relevant_stages": ["class_12", "undergraduate", "graduate"]
+  },
+  "Business Studies": {
+    "onet_knowledge": ["Administration and Management", "Sales and Marketing", "Personnel and Human Resources"],
+    "career_families": ["Management & Strategy", "Marketing & Sales", "Entrepreneurship"],
+    "relevant_stages": ["class_12", "undergraduate", "graduate"]
+  },
+  "Psychology": {
+    "onet_knowledge": ["Psychology", "Therapy and Counseling", "Sociology and Anthropology", "Education and Training"],
+    "career_families": ["Clinical & Counseling Psychology", "Organizational Psychology", "Cognitive Neuroscience", "Social Work & NGO Management"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Sociology": {
+    "onet_knowledge": ["Sociology and Anthropology", "Philosophy and Theology", "Law and Government"],
+    "career_families": ["Social Work & NGO Management", "Public Policy & Development", "Research & Academia"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Fine Arts": {
+    "onet_knowledge": ["Fine Arts", "Design", "Communications and Media"],
+    "career_families": ["Fine & Visual Arts", "UI/UX & Product Design", "Graphic & Fashion Design", "Entertainment & Production"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Physical Education": {
+    "onet_knowledge": ["Medicine and Dentistry", "Therapy and Counseling", "Education and Training"],
+    "career_families": ["Athletics & Sports Coaching", "Sports Science & Nutrition", "Sports Management"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Agriculture": {
+    "onet_knowledge": ["Food Production", "Biology", "Chemistry"],
+    "career_families": ["Agricultural Science & Agronomy", "Environmental Science & Climate", "Forestry & Wildlife Conservation"],
+    "relevant_stages": ["class_10", "class_12", "undergraduate", "graduate"]
+  },
+  "Legal Studies": {
+    "onet_knowledge": ["Law and Government", "Philosophy and Theology", "English Language"],
+    "career_families": ["Legal Services & Judiciary", "Civil Services & Governance", "Corporate Compliance"],
+    "relevant_stages": ["class_12", "undergraduate", "graduate"]
+  }
+}

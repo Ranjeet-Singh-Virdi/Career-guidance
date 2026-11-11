@@ -1,0 +1,110 @@
+{
+  "Sports and athletics": {
+    "transferable_skills": ["Coordination", "Time Management", "Social Perceptiveness", "Monitoring"],
+    "relevant_interests": ["Realistic", "Social"],
+    "career_families": ["Athletics & Sports Coaching", "Sports Science & Nutrition", "Sports Management"],
+    "interpretation": "May indicate resilience, teamwork, discipline, physical stamina, and competitive drive."
+  },
+  "Drawing, painting, and illustration": {
+    "transferable_skills": ["Operations Analysis", "Active Learning", "Critical Thinking"],
+    "relevant_interests": ["Artistic"],
+    "career_families": ["Fine & Visual Arts", "UI/UX & Product Design", "Graphic & Fashion Design", "Architecture & Urban Planning"],
+    "interpretation": "May indicate spatial awareness, visual creativity, attention to aesthetic detail, and expressive thinking."
+  },
+  "Music and singing": {
+    "transferable_skills": ["Active Listening", "Monitoring", "Coordination"],
+    "relevant_interests": ["Artistic"],
+    "career_families": ["Music & Performing Arts", "Entertainment & Production", "Sound Engineering"],
+    "interpretation": "May indicate auditory sensitivity, creative discipline, emotional expression, and pattern recognition."
+  },
+  "Dance and performing arts": {
+    "transferable_skills": ["Coordination", "Social Perceptiveness", "Speaking"],
+    "relevant_interests": ["Artistic", "Social"],
+    "career_families": ["Music & Performing Arts", "Entertainment & Production", "Event Management"],
+    "interpretation": "May indicate kinetic intelligence, public presence, confidence, and artistic storytelling."
+  },
+  "Coding and robotics": {
+    "transferable_skills": ["Programming", "Technology Design", "Troubleshooting", "Complex Problem Solving", "Critical Thinking"],
+    "relevant_interests": ["Investigative", "Realistic"],
+    "career_families": ["Information Technology", "Mechanical & Aerospace Engineering", "Electrical & Electronics", "Data Science"],
+    "interpretation": "May indicate logical reasoning, systematic problem-solving, algorithmic thinking, and technical curiosity."
+  },
+  "Video editing and content creation": {
+    "transferable_skills": ["Operations Analysis", "Speaking", "Writing", "Critical Thinking"],
+    "relevant_interests": ["Artistic", "Enterprising"],
+    "career_families": ["Journalism & Mass Media", "Content Creation & PR", "Entertainment & Production", "Marketing & Sales"],
+    "interpretation": "May indicate narrative pacing, digital media literacy, audience empathy, and visual communication."
+  },
+  "Photography": {
+    "transferable_skills": ["Operations Monitoring", "Active Learning", "Critical Thinking"],
+    "relevant_interests": ["Artistic", "Realistic"],
+    "career_families": ["Fine & Visual Arts", "Journalism & Mass Media", "Content Creation & PR"],
+    "interpretation": "May indicate visual framing, attention to lighting and detail, patience, and creative documentation."
+  },
+  "Writing, reading, and storytelling": {
+    "transferable_skills": ["Reading Comprehension", "Writing", "Critical Thinking", "Active Learning"],
+    "relevant_interests": ["Artistic", "Investigative"],
+    "career_families": ["Creative & Technical Writing", "Journalism & Mass Media", "Legal Services & Judiciary", "Research & Academia"],
+    "interpretation": "May indicate rich vocabulary, conceptual depth, analytical empathy, and persuasive communication."
+  },
+  "Public speaking and debate": {
+    "transferable_skills": ["Speaking", "Active Listening", "Critical Thinking", "Persuasion", "Negotiation"],
+    "relevant_interests": ["Enterprising", "Social"],
+    "career_families": ["Legal Services & Judiciary", "Civil Services & Governance", "Marketing & Sales", "Management & Strategy"],
+    "interpretation": "May indicate structured argumentation, poise under pressure, verbal clarity, and persuasive leadership."
+  },
+  "Volunteering and community service": {
+    "transferable_skills": ["Service Orientation", "Social Perceptiveness", "Active Listening", "Coordination"],
+    "relevant_interests": ["Social"],
+    "career_families": ["Social Work & NGO Management", "Public Policy & Development", "Medicine & Healthcare", "Teaching & Education"],
+    "interpretation": "May indicate altruism, social empathy, grassroots leadership, and commitment to societal well-being."
+  },
+  "Leadership and student clubs": {
+    "transferable_skills": ["Management of Personnel Resources", "Coordination", "Negotiation", "Time Management", "Speaking"],
+    "relevant_interests": ["Enterprising", "Social"],
+    "career_families": ["Management & Strategy", "Civil Services & Governance", "Entrepreneurship", "School & Higher Education"],
+    "interpretation": "May indicate organizational vision, delegation, consensus building, and team motivation."
+  },
+  "Organizing events": {
+    "transferable_skills": ["Coordination", "Time Management", "Management of Financial Resources", "Negotiation"],
+    "relevant_interests": ["Enterprising", "Conventional"],
+    "career_families": ["Management & Strategy", "Marketing & Sales", "Public Relations", "Sports Management"],
+    "interpretation": "May indicate logistical foresight, calm execution during contingencies, and stakeholder management."
+  },
+  "Entrepreneurship and selling products": {
+    "transferable_skills": ["Judgment and Decision Making", "Negotiation", "Management of Financial Resources", "Persuasion"],
+    "relevant_interests": ["Enterprising", "Conventional"],
+    "career_families": ["Entrepreneurship", "Finance & Banking", "Marketing & Sales", "Management & Strategy"],
+    "interpretation": "May indicate commercial acumen, risk tolerance, customer empathy, and self-starter initiative."
+  },
+  "Building or repairing objects": {
+    "transferable_skills": ["Troubleshooting", "Equipment Maintenance", "Repairing", "Operations Analysis"],
+    "relevant_interests": ["Realistic"],
+    "career_families": ["Mechanical & Aerospace Engineering", "Civil & Structural Engineering", "Skilled Trades & ITI", "Automotive & Heavy Equipment"],
+    "interpretation": "May indicate mechanical intuition, spatial reasoning, tactile precision, and practical ingenuity."
+  },
+  "Gardening and environmental projects": {
+    "transferable_skills": ["Monitoring", "Active Learning", "Operations Analysis"],
+    "relevant_interests": ["Realistic", "Investigative"],
+    "career_families": ["Agricultural Science & Agronomy", "Environmental Science & Climate", "Forestry & Wildlife Conservation"],
+    "interpretation": "May indicate ecological awareness, patience with living systems, observation skills, and sustainability values."
+  },
+  "Research and science experiments": {
+    "transferable_skills": ["Science", "Critical Thinking", "Mathematics", "Complex Problem Solving", "Writing"],
+    "relevant_interests": ["Investigative"],
+    "career_families": ["Physical Sciences", "Life Sciences", "Biotechnology", "Research & Academia"],
+    "interpretation": "May indicate methodical inquiry, empirical skepticism, intellectual stamina, and analytical rigor."
+  },
+  "Gaming and game development": {
+    "transferable_skills": ["Programming", "Technology Design", "Complex Problem Solving", "Active Learning"],
+    "relevant_interests": ["Artistic", "Investigative", "Realistic"],
+    "career_families": ["Information Technology", "UI/UX & Product Design", "Data Science"],
+    "interpretation": "May indicate interactive systems understanding, strategic thinking, rapid reflex-decision cycles, and digital design."
+  },
+  "Craftwork and practical projects": {
+    "transferable_skills": ["Operations Analysis", "Troubleshooting", "Coordination"],
+    "relevant_interests": ["Artistic", "Realistic"],
+    "career_families": ["Fine & Visual Arts", "Skilled Trades & ITI", "Architecture & Urban Planning"],
+    "interpretation": "May indicate material mastery, dexterity, patience in craftsmanship, and practical aesthetics."
+  }
+}
